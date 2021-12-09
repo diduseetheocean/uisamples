@@ -1,0 +1,44 @@
+{
+  "shareName": "adidas",
+  "accountId": "DE000A1EWWW0",
+  "accountTotal": 1200223,
+  "date": "03.09.2020",
+  "secondCol": "Performance",
+  "thirdCol": "Volatilität",
+  "rows": [
+    {
+      "timeRange": "1 Woche",
+      "performance": 1.2
+    },
+    {
+      "timeRange": "1 Monat",
+      "performance": 8.9,
+      "volatility": 11.06
+    },
+    {
+      "timeRange": "3 Monate",
+      "performance": 0.0,
+      "volatility": 19.45
+    },
+    {
+      "timeRange": "6 Monate",
+      "performance": 2.4,
+      "volatility": 29.20
+    },
+    {
+      "timeRange": "1 Jahr",
+      "performance": -5.4,
+      "volatility": 52.33
+    },
+    {
+      "timeRange": "3 Jahre",
+      "performance": 30.3,
+      "volatility": 41.19
+    },
+    {
+      "timeRange": "5 Jahre",
+      "performance": 120.3,
+      "volatility": 31.50
+    }
+  ]
+}
